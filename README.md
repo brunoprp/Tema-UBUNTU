@@ -1,2 +1,4 @@
-# Tema-UBUNTU
+# Tema UBUNTU
 Tema Deepin
+
+Instalação: mv Deepin ~/.icons/
